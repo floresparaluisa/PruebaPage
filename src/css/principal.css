@@ -1,0 +1,20 @@
+.principal-text-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: fit-content;
+    h5 {
+        font-size: 1rem;
+        color: blue;
+        letter-spacing: 5px;
+    }
+    button {
+        padding: 0.3rem 1rem;
+        border: none;
+        outline: none;
+        color: white;
+        background-color: greenyellow;
+    }
+}
